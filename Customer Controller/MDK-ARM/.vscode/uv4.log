@@ -1,0 +1,13 @@
+*** Using Compiler 'V5.06 update 7 (build 960)', folder: 'D:\keil\ARM\ARMCC\Bin'
+Build target 'Customer Controller'
+compiling Send_data.c...
+..\Driveplayer\Send_data.c(98): warning:  #1-D: last line of file ends without a newline
+  }
+..\Driveplayer\Send_data.c(80): warning:  #177-D: function "Data_Concatenation"  was declared but never referenced
+  static void Data_Concatenation(void)
+..\Driveplayer\Send_data.c: 2 warnings, 0 errors
+linking...
+Program Size: Code=11872 RO-data=524 RW-data=152 ZI-data=18424  
+FromELF: creating hex file...
+"Customer Controller\Customer Controller.axf" - 0 Error(s), 2 Warning(s).
+Build Time Elapsed:  00:00:04
